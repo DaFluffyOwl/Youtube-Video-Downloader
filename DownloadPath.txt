@@ -1,0 +1,2 @@
+Input FULL path on next line: (Example: C:\Users\NAME\Downloads)
+C:\Users\SAGER\Pictures\Saved Pictures\Memes
